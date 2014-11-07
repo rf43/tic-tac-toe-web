@@ -1,0 +1,14 @@
+/*!
+ * Tic-Tac-Tow Game
+ * https://github.com/rf3Studios/tic-tac-toe-web
+ *
+ * Copyright 2014 Rich Friedel
+ * Released under the MIT license
+ */
+
+/* Styles */
+body {
+    margin   : 0;
+    padding  : 0;
+    overflow : hidden;
+}
